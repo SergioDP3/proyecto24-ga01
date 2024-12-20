@@ -122,7 +122,7 @@ jobs:
           cd Visualization
           mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar \
             -Dsonar.projectKey=sergiodp3_proyecto24-ga01 \
-            -Dsonar.organization=SergioDP3 \
+            -Dsonar.organization=sergiodp3 \
             -Dsonar.host.url=https://sonarcloud.io \
             -Dsonar.login=${{ secrets.SONAR_TOKEN }}
                 
