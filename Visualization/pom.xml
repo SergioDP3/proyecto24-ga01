@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <springdoc.version>1.6.14</springdoc.version>
         <swagger-ui.version>5.3.1</swagger-ui.version>
-        <sonar.projectKey>sergiodp3_proyecto24-ga01</sonar.projectKey>
+        <sonar.projectKey>SergioDP3_proyecto24-ga01</sonar.projectKey>
         <sonar.organization>sergiodp3</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
