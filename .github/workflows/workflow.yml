@@ -99,7 +99,7 @@ jobs:
             cd User
             mvn spring-boot:run &  
 
-    # Análisis de SonarCloud para el microservicio Visualization
+    # Análisis de SonarCloud para el microservicio Visualization.
       - name: Cache SonarCloud packages
         uses: actions/cache@v4
         with:
